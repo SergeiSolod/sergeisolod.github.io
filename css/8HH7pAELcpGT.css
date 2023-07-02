@@ -1,0 +1,84 @@
+@font-face {
+  font-family: 'TildaSans';
+  font-style: normal;
+  font-weight: 250 1000;
+  src: url('../fonts/K5KqQwiZPxT9.woff2') format('woff2-variations'),
+       url('../fonts/g6mQobA35Mg8.woff') format('woff-variations');     
+}
+@font-face {
+  font-family: 'TildaSans';
+  font-style: normal;
+  font-weight: 300;
+  src: url('https://static.tildacdn.com/fonts/tildasans/TildaSans-Light.eot');
+  src: url('https://static.tildacdn.com/fonts/tildasans/TildaSans-Light.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/K5KqQwiZPxT9.woff2') format('woff2-variations'),
+       url('../fonts/g6mQobA35Mg8.woff') format('woff-variations'),
+       url('../fonts/fRPDUS3mmcMG.woff2') format('woff2'),
+       url('../fonts/cfH1RU1WERiv.woff') format('woff');
+}
+@font-face {
+  font-family: 'TildaSans';
+  font-style: normal;
+  font-weight: 400;
+  src: url('https://static.tildacdn.com/fonts/tildasans/TildaSans-Regular.eot');
+  src: url('https://static.tildacdn.com/fonts/tildasans/TildaSans-Regular.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/K5KqQwiZPxT9.woff2') format('woff2-variations'),
+       url('../fonts/g6mQobA35Mg8.woff') format('woff-variations'),  
+       url('../fonts/OUsNRnlppuYP.woff2') format('woff2'),
+       url('../fonts/KwQUWIWznuS3.woff') format('woff');
+}
+@font-face {
+  font-family: 'TildaSans';
+  font-style: normal;
+  font-weight: 500;
+  src: url('https://static.tildacdn.com/fonts/tildasans/TildaSans-Medium.eot');
+  src: url('https://static.tildacdn.com/fonts/tildasans/TildaSans-Medium.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/K5KqQwiZPxT9.woff2') format('woff2-variations'),
+       url('../fonts/g6mQobA35Mg8.woff') format('woff-variations'),  
+       url('../fonts/YlW8EBDnOVxJ.woff2') format('woff2'),
+       url('../fonts/uT8rJ4cQTzi0.woff') format('woff');
+}
+@font-face {
+  font-family: 'TildaSans';
+  font-style: normal;
+  font-weight: 600;
+  src: url('https://static.tildacdn.com/fonts/tildasans/TildaSans-Semibold.eot');
+  src: url('https://static.tildacdn.com/fonts/tildasans/TildaSans-Semibold.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/K5KqQwiZPxT9.woff2') format('woff2-variations'),
+       url('../fonts/g6mQobA35Mg8.woff') format('woff-variations'),  
+       url('../fonts/YANfvYofOstM.woff2') format('woff2'),
+       url('../fonts/ySPL01R87k3L.woff') format('woff');
+}
+@font-face {
+  font-family: 'TildaSans';
+  font-style: normal;
+  font-weight: 700;
+  src: url('https://static.tildacdn.com/fonts/tildasans/TildaSans-Bold.eot');
+  src: url('https://static.tildacdn.com/fonts/tildasans/TildaSans-Bold.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/K5KqQwiZPxT9.woff2') format('woff2-variations'),
+       url('../fonts/g6mQobA35Mg8.woff') format('woff-variations'),  
+       url('../fonts/dHPXLsaNdzEO.woff2') format('woff2'),
+       url('../fonts/W1Of4Ess3CCM.woff') format('woff');
+}
+@font-face {
+  font-family: 'TildaSans';
+  font-style: normal;
+  font-weight: 800;
+  src: url('https://static.tildacdn.com/fonts/tildasans/TildaSans-Extrabold.eot');
+  src: url('https://static.tildacdn.com/fonts/tildasans/TildaSans-Extrabold.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/K5KqQwiZPxT9.woff2') format('woff2-variations'),
+       url('../fonts/g6mQobA35Mg8.woff') format('woff-variations'),  
+       url('../fonts/pJMvlgZagQrT.woff2') format('woff2'),
+       url('../fonts/wgq0aXZaQDXB.woff') format('woff');
+}
+@font-face {
+  font-family: 'TildaSans';
+  font-style: normal;
+  font-weight: 900;
+  src: url('https://static.tildacdn.com/fonts/tildasans/TildaSans-Black.eot');
+  src: url('https://static.tildacdn.com/fonts/tildasans/TildaSans-Black.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/K5KqQwiZPxT9.woff2') format('woff2-variations'),
+       url('../fonts/g6mQobA35Mg8.woff') format('woff-variations'),  
+       url('../fonts/GficQfuVlIA1.woff2') format('woff2'),
+       url('../fonts/gy0bt13m7Nof.woff') format('woff');
+}
