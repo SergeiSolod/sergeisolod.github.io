@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d81399b3.css",
+    "main.js": "/static/js/main.dec1c6db.js",
+    "static/media/GothamPro.woff": "/static/media/GothamPro.afad01a57e95b7292360.woff",
+    "static/media/GothamPro-Bold.woff": "/static/media/GothamPro-Bold.f005cfcf5e57a414a41a.woff",
+    "static/media/GothamPro-Medium.woff": "/static/media/GothamPro-Medium.16bfddea0e502f10236b.woff",
+    "static/media/GothamPro-Light.woff": "/static/media/GothamPro-Light.3543dedeee26cca50d5b.woff",
+    "static/media/GothamPro-Bold.woff2": "/static/media/GothamPro-Bold.47a1b74588e9d6485008.woff2",
+    "static/media/GothamPro.woff2": "/static/media/GothamPro.760be72952dba4168481.woff2",
+    "static/media/GothamPro-Medium.woff2": "/static/media/GothamPro-Medium.9275dabf396a179a1e27.woff2",
+    "static/media/GothamPro-Light.woff2": "/static/media/GothamPro-Light.b9be7dead737ac04ed07.woff2",
+    "static/media/Attention.svg": "/static/media/Attention.3dd9b814f31d658125a2c508f45b6d9c.svg",
+    "index.html": "/index.html",
+    "static/media/Right.svg": "/static/media/Right.6af8862be6c33acf08a678374d3ba9d8.svg",
+    "static/media/User.svg": "/static/media/User.5f6e31e7f5c219f1b0e6174f853acb57.svg",
+    "static/media/Download.svg": "/static/media/Download.f9e0319ece613cb71494e28f83b56bd1.svg",
+    "static/media/CheckMark.svg": "/static/media/CheckMark.ce9ac06019316c89efc546b863d2f543.svg",
+    "static/media/Delete.svg": "/static/media/Delete.f0352bd630ae6163979e9325278cd275.svg",
+    "static/media/DeleteMini.svg": "/static/media/DeleteMini.7f7617417a4b273e4bc1b5342455d5f2.svg",
+    "static/media/Calendar.svg": "/static/media/Calendar.07a08298666685b6d060074170ac4bce.svg"
+  },
+  "entrypoints": [
+    "static/css/main.d81399b3.css",
+    "static/js/main.dec1c6db.js"
+  ]
+}
